@@ -20,7 +20,11 @@ public class GitHubKullanımi {
         System.out.println("that's it");
         //bunu nasıl update edecegiz
         //1.adım artık gitle irtibatli init yok
-        //2.adım dosya ekleme idi
+        //2.adım dosya ekleme idi git add . ile ekledik
+        //3.adım versiyon olusturduk git commit -m her olusturdugumuz versiyonu commitle yapıyoruz
+        //4.adım versiyon olusturduk bunu git e yollamak oda git push ile
+        //her degişiklikde bu 3 adım
+
 
     }
 }
